@@ -1,5 +1,7 @@
 # 🚀 Svelte 3D Space Explorer 🪐
 
+![SolarSystem](./static/planets.gif)
+
 ## 🛸 How to Launch This Cosmic Catastrophe
 
 1. Clone this repository
